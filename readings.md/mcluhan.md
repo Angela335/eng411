@@ -1,4 +1,4 @@
-# Mcluhan - THe Medium is the Message
+# Mcluhan - The Medium is the Message
 In McLuhan's text, the author describes how mechanization has changed how our society interacts with one another and our wordly perspectives. It has changed human relationships and works in a more complex way than it has before. Instead of the importance of the message of the medium, what is more important is the kind of medium that we utilize.
 
 **_What is the nature of technology and technological change and how are these rhetorical?_**
