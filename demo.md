@@ -44,6 +44,13 @@ Inserting an image with alt text: Here's an image of chocolate baked oats, my ne
 # Vscode Steps to Remember
 **To revert:**
 <br>
+
+Before doing anything, type in git fetch and then git pull.
+<br>
+*git fetch* - grabs everything that's in current remote repository
+<br>
+*git pull* - pulling those changes into remote repository
+<br>
 1. Select 'Terminal'
 2. Type in git revert
 3. Copy and paste the SHA
