@@ -42,7 +42,7 @@ Inserting an image with alt text: Here's an image of chocolate baked oats, my ne
 <br>
 <br>
 # Vscode Steps to Remember
-**To revert:**
+**To Revert in Command Line:**
 <br>
 
 Before doing anything, type in git fetch and then git pull.
