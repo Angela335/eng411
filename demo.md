@@ -33,7 +33,7 @@ Creating a blockquote:
 <br>
 <br>
 
-Inserting an image with alt text: Here's an image of chocolate baked oats, my new to-go breakfast meal.
+Inserting an image with alt text: Here's an image of chocolate baked oats.
 <br>
 
 ![chocolate baked oats](https://chocolatecoveredkatie.com/wp-content/uploads/2021/05/Popular-TikTok-Recipe-Chocolate-Baked-Oats.jpg)
