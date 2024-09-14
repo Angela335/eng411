@@ -40,6 +40,6 @@ Inserting an image with alt text: Here's an image of chocolate baked oats, my ne
 <br>
 <br>
 <br>
-<br>
+
 
   
